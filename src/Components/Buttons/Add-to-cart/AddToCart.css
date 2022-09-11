@@ -1,0 +1,10 @@
+.AddToCart{
+    width: 350px;
+    height: 50px;
+    font-size: medium;
+    background-color:rgb(12, 49, 12) ;
+    color: antiquewhite;
+}
+.AddToCart:hover{
+    cursor: pointer;
+}

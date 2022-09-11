@@ -1,0 +1,13 @@
+.Footer{
+    height: 100px;
+  padding-left: 75px;
+  padding-right: 75px;
+  
+    color: rgb(133, 133, 133);
+}
+.footer-container{
+    padding-top: 40px;
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+}

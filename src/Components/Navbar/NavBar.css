@@ -1,0 +1,17 @@
+.Navbar{
+    padding-left: 25px;
+    padding-right: 25px;
+    height:75px;
+   
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+}
+.icon{
+    width: 25px;
+    height: 25px;
+    margin: 10px
+}
+.NavBar-Heading{
+    padding-left: 100px;
+}

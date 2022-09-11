@@ -1,0 +1,29 @@
+.Counter{
+    display: flex;
+    
+
+}
+.CounterValue{
+    width: 75px;
+    height: 50px;
+border: 1px solid rgb(133, 133, 133);
+    ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+    
+    
+}
+
+.CounterButton{
+    width: 50px;
+    
+}
+.CounterButton:hover{
+    cursor: pointer;
+}
+
+.ProductDetails-Counter{
+    margin-right: 50px;
+}

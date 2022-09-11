@@ -1,0 +1,38 @@
+.ProductDetails{
+
+    width: 50%;
+    height: 500px;
+    padding-left: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start ;
+    justify-content:space-evenly ;
+}
+.ProductDetailsBlock-Three{
+    display: flex;
+
+}
+.Color-block{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.BlockMargin{
+    margin-bottom: 10px;
+    color: rgb(133, 133, 133);
+
+}
+.anchor{
+color: rgb(133, 133, 133);
+font-weight: 700;
+    text-decoration: none;
+}
+.productName{
+    margin-bottom: 10px;
+    display: flex
+}
+.productPrice b{
+    margin-bottom: 10px;
+    font-weight: 900;
+    font-size: medium;
+}

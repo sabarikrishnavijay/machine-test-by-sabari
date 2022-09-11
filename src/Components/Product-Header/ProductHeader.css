@@ -1,0 +1,9 @@
+.product-header{
+    height: 100px;
+    padding-left: 25px;
+    padding-right: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-image: url('../../../public/pngtree-sand-texture-light-brown-background-image_845151.jpg');
+}
